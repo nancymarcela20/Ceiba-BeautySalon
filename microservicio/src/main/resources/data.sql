@@ -1,0 +1,1 @@
+insert into servicio_estetico(id, id_servicio, nombre, tipo_servicio, costo, estado_servicio) values (30, "DC03", "Cejas", "DEPILACION", 8000, true);

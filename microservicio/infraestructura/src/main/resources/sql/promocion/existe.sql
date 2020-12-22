@@ -1,0 +1,1 @@
+select count(1) from promocion where id_servicio = :idServicio and dia = :dia
